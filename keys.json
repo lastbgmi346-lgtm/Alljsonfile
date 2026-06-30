@@ -1,5 +1,16 @@
 [
   {
+    "key": "NEXO-W2DEZPO6",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-06-30T13:43:44.892Z",
+    "expires": "2026-07-01T13:43:44.892Z",
+    "usedBy": null,
+    "usedAt": null
+  },
+  {
     "key": "NEXO-XB7Q1FYC",
     "duration": 1,
     "durationType": "days",
