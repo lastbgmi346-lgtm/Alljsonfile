@@ -1,16 +1,5 @@
 [
   {
-    "key": "NEXO-OPB5ZWAX",
-    "duration": 1,
-    "durationType": "minutes",
-    "durationLabel": "1 Minute",
-    "status": "active",
-    "created": "2026-06-30T13:42:15.391Z",
-    "expires": "2026-06-30T13:43:15.391Z",
-    "usedBy": null,
-    "usedAt": null
-  },
-  {
     "key": "NEXO-XB7Q1FYC",
     "duration": 1,
     "durationType": "days",
