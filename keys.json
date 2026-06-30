@@ -1,12 +1,12 @@
 [
   {
-    "key": "NEXO-ZFTGSQWY",
+    "key": "NEXO-UFM4I51N",
     "duration": 1,
     "durationType": "hours",
     "durationLabel": "1 Hour",
     "status": "active",
-    "created": "2026-06-30T17:13:58.966Z",
-    "expires": "2026-06-30T18:13:58.967Z",
+    "created": "2026-06-30T17:15:33.268Z",
+    "expires": "2026-06-30T18:15:33.268Z",
     "usedBy": null,
     "usedAt": null
   }
