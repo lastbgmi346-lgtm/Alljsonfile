@@ -110,17 +110,6 @@
     "usedAt": null
   },
   {
-    "key": "NEXO-1ZV0FFHV",
-    "duration": 1,
-    "durationType": "days",
-    "durationLabel": "1 Day",
-    "status": "active",
-    "created": "2026-06-30T18:55:58.703Z",
-    "expires": "2026-07-01T18:55:58.703Z",
-    "usedBy": null,
-    "usedAt": null
-  },
-  {
     "key": "NEXO-66QC0LLW",
     "duration": 30,
     "durationType": "days",
