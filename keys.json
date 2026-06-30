@@ -1,32 +1,12 @@
 [
   {
-    "key": "NEXO-W2DEZPO6",
+    "key": "NEXO-ZFTGSQWY",
     "duration": 1,
-    "durationType": "days",
-    "durationLabel": "1 Day",
+    "durationType": "hours",
+    "durationLabel": "1 Hour",
     "status": "active",
-    "created": "2026-06-30T13:43:44.892Z",
-    "expires": "2026-07-01T13:43:44.892Z",
-    "usedBy": null,
-    "usedAt": null
-  },
-  {
-    "key": "NEXO-XB7Q1FYC",
-    "duration": 1,
-    "durationType": "days",
-    "durationLabel": "1 Day",
-    "status": "active",
-    "created": "2026-06-30T13:36:36.507Z",
-    "expires": "2026-07-01T13:36:36.507Z",
-    "usedBy": null,
-    "usedAt": null
-  },
-  {
-    "key": "NEXO-YY0ZAAER",
-    "duration": 1,
-    "status": "active",
-    "created": "2026-06-30T12:24:11.143Z",
-    "expires": "2026-07-01T12:24:11.143Z",
+    "created": "2026-06-30T17:13:58.966Z",
+    "expires": "2026-06-30T18:13:58.967Z",
     "usedBy": null,
     "usedAt": null
   }
