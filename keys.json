@@ -130,5 +130,16 @@
     "expires": "2026-07-02T12:39:12.239Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-XJC8VGID",
+    "duration": 30,
+    "durationType": "days",
+    "durationLabel": "1 Month",
+    "status": "active",
+    "created": "2026-07-02T07:29:15.786Z",
+    "expires": "2026-08-01T07:29:15.787Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
