@@ -143,6 +143,17 @@
     "usedAt": null
   },
   {
+    "key": "NEXO-FF-PRO",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-07-04T18:00:38.392Z",
+    "expires": "2026-07-05T18:00:38.392Z",
+    "usedBy": null,
+    "usedAt": null
+  },
+  {
     "key": "NEXO-AES6YOUX",
     "duration": 1,
     "durationType": "days",
