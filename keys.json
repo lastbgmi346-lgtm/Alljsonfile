@@ -141,5 +141,27 @@
     "expires": "2026-08-01T07:29:15.787Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-AES6YOUX",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-07-04T18:00:22.812Z",
+    "expires": "2026-07-05T18:00:22.813Z",
+    "usedBy": null,
+    "usedAt": null
+  },
+  {
+    "key": "NEXO-MOHIT-FF",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-07-04T17:58:19.195Z",
+    "expires": "2026-07-05T17:58:19.195Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
