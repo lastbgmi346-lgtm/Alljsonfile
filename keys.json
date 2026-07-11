@@ -185,5 +185,16 @@
     "expires": "2026-07-11T18:55:29.857Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-615V88NN",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-07-11T17:32:05.927Z",
+    "expires": "2026-07-12T17:32:05.927Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
