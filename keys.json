@@ -196,5 +196,16 @@
     "expires": "2026-07-12T17:32:05.927Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-85N0NR4J",
+    "duration": 365,
+    "durationType": "days",
+    "durationLabel": "1 Year",
+    "status": "active",
+    "created": "2026-08-04T17:27:30.975Z",
+    "expires": "2027-08-04T17:27:30.976Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
