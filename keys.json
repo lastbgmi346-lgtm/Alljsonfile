@@ -207,5 +207,16 @@
     "expires": "2027-08-04T17:27:30.976Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-S9DBQVNX",
+    "duration": 5,
+    "durationType": "days",
+    "durationLabel": "5 Days",
+    "status": "active",
+    "created": "2026-08-05T17:34:11.149Z",
+    "expires": "2026-08-10T17:34:11.150Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
