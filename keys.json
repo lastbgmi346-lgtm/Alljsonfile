@@ -218,5 +218,27 @@
     "expires": "2026-08-10T17:34:11.150Z",
     "usedBy": null,
     "usedAt": null
+  },
+  {
+    "key": "NEXO-IC47V0ST",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-08-13T09:07:59.718Z",
+    "expires": "2026-08-14T09:07:59.718Z",
+    "usedBy": null,
+    "usedAt": null
+  },
+  {
+    "key": "NEXO-JG6WLQYL",
+    "duration": 1,
+    "durationType": "days",
+    "durationLabel": "1 Day",
+    "status": "active",
+    "created": "2026-08-13T09:07:32.048Z",
+    "expires": "2026-08-14T09:07:32.049Z",
+    "usedBy": null,
+    "usedAt": null
   }
 ]
